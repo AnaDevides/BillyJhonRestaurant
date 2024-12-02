@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532324306796",
+    "project_id": "billyjhonrestaurant",
+    "storage_bucket": "billyjhonrestaurant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532324306796:android:04890026de27ead34b2d49",
+        "android_client_info": {
+          "package_name": "com.example.projetoparciallista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2o5hF3wnuEtfw_joXmWxQBZsQ4iQ1Zoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
